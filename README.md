@@ -2,7 +2,7 @@
 basically? to put it simple it's a pc os but really uncomfortable, it has to run on python 
 
 //HOW TO USE THIS STUPID WARIO THING
-ok firstly, there is just this program that is called WARIOWARE.PY(1) and game.txt (2)
+ok firstly, there is just this program that is called WARIOWARE.PY(1) and gioco.txt (2)
 it's italian and i am not porting it to english
 (1)
 the whole things work by checking the rom and loading it
